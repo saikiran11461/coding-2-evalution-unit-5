@@ -6,8 +6,38 @@ table, th, td {
   border:1px solid black;
   padding: 5px;
   margin: auto;
+  
 }
 table{
   width: 500px;
   margin: 30px;
+}
+.addstudent{
+  border: 1px solid red;
+  width: 500px;
+  margin: auto;
+  padding: 10px;
+}
+.togglebtn{
+  margin: 10px;
+  background-color: brown;
+color: aqua;
+}
+.controls{
+  display: flex;
+  margin: auto;
+padding: 10px;
+
+}
+.sortby{
+  margin: 10px;
+}
+
+
+.sortorder{
+  margin: 10px;
+}
+
+.sort{
+  margin: 10px;
 }
